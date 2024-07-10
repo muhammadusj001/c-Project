@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\C++\Esoft_Project\Esoft_Project\bin\Debug\Esoft_Project.exe.config
+C:\Users\DELL\Desktop\C++\Esoft_Project\Esoft_Project\bin\Debug\Esoft_Project.exe
+C:\Users\DELL\Desktop\C++\Esoft_Project\Esoft_Project\bin\Debug\Esoft_Project.pdb
+C:\Users\DELL\Desktop\C++\Esoft_Project\Esoft_Project\obj\Debug\Esoft_Project.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C++\Esoft_Project\Esoft_Project\obj\Debug\Esoft_Project.Form1.resources
+C:\Users\DELL\Desktop\C++\Esoft_Project\Esoft_Project\obj\Debug\Esoft_Project.Form2.resources
+C:\Users\DELL\Desktop\C++\Esoft_Project\Esoft_Project\obj\Debug\Esoft_Project.Form3.resources
+C:\Users\DELL\Desktop\C++\Esoft_Project\Esoft_Project\obj\Debug\Esoft_Project.Properties.Resources.resources
+C:\Users\DELL\Desktop\C++\Esoft_Project\Esoft_Project\obj\Debug\Esoft_Project.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\C++\Esoft_Project\Esoft_Project\obj\Debug\Esoft_Project.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C++\Esoft_Project\Esoft_Project\obj\Debug\Esoft_Project.exe
+C:\Users\DELL\Desktop\C++\Esoft_Project\Esoft_Project\obj\Debug\Esoft_Project.pdb
